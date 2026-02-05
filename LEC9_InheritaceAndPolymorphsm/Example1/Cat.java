@@ -9,7 +9,8 @@ public class Cat {
     }
 
     void makeSound() {
-        System.out.println("huydeptrai."); 
+        System.out.println("meo meo"); 
     }
 
 }
+
